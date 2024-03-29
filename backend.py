@@ -4,7 +4,7 @@ from openai import OpenAI
 # Replace with your ChatGPT API key
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="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"
+    api_key="API KEY"
 )
 
 
